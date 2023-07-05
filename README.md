@@ -1,0 +1,2 @@
+# JugdementBot
+ I love democracy
